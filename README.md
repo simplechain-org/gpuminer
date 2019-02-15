@@ -1,6 +1,6 @@
 # gpuminer
 
-###windows###
+### windows
 
 下载 gpuminer-windows-1.0.0-amd64.rar
 
