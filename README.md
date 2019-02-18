@@ -15,4 +15,4 @@
 
 ./gpuminer --server 118.31.45.65:8801 --name yourMinerName --concurrent.threads 2048
 
-备注：118.31.45.65:8801 为矿池地址，访问 http://118.31.45.65/ 注册帐户
+备注：118.31.45.65:8801 为矿池地址，访问 https://simpool.vip/ 注册帐户
