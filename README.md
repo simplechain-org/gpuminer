@@ -6,13 +6,13 @@
 
 解压 gpuminer-windows-1.0.0-amd64.rar
 
-./gpuminer --server 118.31.45.65:8801 --name yourMinerName --concurrent.threads 2048
+./gpuminer --server simpool.vip:8801 --name yourMinerName --concurrent.threads 2048
 
 ### mac
 下载 gpuminer-darwin-1.0.0-amd64.zip
 
 解压 gpuminer-darwin-1.0.0-amd64.zip
 
-./gpuminer --server 118.31.45.65:8801 --name yourMinerName --concurrent.threads 2048
+./gpuminer --server simpool.vip:8801 --name yourMinerName --concurrent.threads 2048
 
-备注：118.31.45.65:8801 为矿池地址，访问 https://simpool.vip/ 注册帐户
+备注：simpool.vip:8801 为矿池地址，访问 https://simpool.vip/ 注册帐户
