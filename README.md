@@ -76,7 +76,7 @@ INFO [03-01|07:57:49.743] ReceivedTask                             id=4500001807
 INFO [03-01|07:57:50.866] ReceivedTask                             id=4600001807 diff=5652457632  nonceBegin=7709151493183826777  nonceEnd=8476122391792807122
 INFO [03-01|07:58:01.524] Calculating                              hashRate=632503 count=9488000000000000 time difference=15000718100
 ```
-注意:windows下的如果看到运行日志，可以下载安装一个git,然后利用git bash来查看 tail -f gpuminer.log
+注意:windows下的如果想要看到实时运行日志，可以下载安装一个git,然后利用git bash来查看 tail -f gpuminer.log
 
 支持多显卡进行挖矿。支持gpu过滤，也就是你可以根据你自己机器的情况：
 1. -gpuplatform 1 选择A卡进行挖矿。
