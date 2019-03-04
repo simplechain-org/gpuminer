@@ -2,7 +2,7 @@
 
 ### windows
 
-1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.2/gpuminer-windows-1.0.2-amd64.zip)压缩文件。
+1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.2/gpuminer-windows-1.0.3-amd64.zip)压缩文件。
 
 2、解压所下载的文件。
 
