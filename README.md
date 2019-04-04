@@ -2,7 +2,7 @@
 
 ### windows
 
-1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.3/gpuminer-windows-1.0.4-amd64.zip)压缩文件。
+1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.4/gpuminer-windows-1.0.4-amd64.zip)压缩文件。
 
 2、解压所下载的文件。
 
@@ -11,7 +11,7 @@
 4、双击start.bat文件开始挖矿。
 
 ### mac
-1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.2/gpuminer-darwin-1.0.4-amd64.zip)压缩文件。
+1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.4/gpuminer-darwin-1.0.4-amd64.zip)压缩文件。
 
 2、解压所下载的文件。
 
@@ -21,7 +21,7 @@
 
 ### linux
 
-1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.2/gpuminer-linux-1.0.4-amd64.zip)压缩文件。
+1、下载 [gpuminer](https://github.com/simplechain-org/gpuminer/releases/download/v1.0.4/gpuminer-linux-1.0.4-amd64.zip)压缩文件。
 
 2、解压所下载的文件。
 
