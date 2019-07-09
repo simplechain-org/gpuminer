@@ -85,4 +85,4 @@ INFO [03-01|07:58:01.524] Calculating                              hashRate=6325
 
 可以通过添加参数-memsize来过滤显存小的卡不进行挖矿（默认为2048MB）。这样，你就可以通过这个参数来设置集成显卡不参与挖矿。
 
-备注：simpool.vip:8801 为矿池地址，访问 https://simpool.vip/ 注册帐户
+备注：sipc.simpool.vip:8801 为矿池地址，访问 https://simpool.vip/ 注册帐户
